@@ -10,4 +10,4 @@
 2. Создание адаптивных сайтов с резиновой вёрсткой;
 3. Основы Git и GitHub.
 
-![Logo](img\cat.jpg)
+![Logo](https://github.com/Novinkova/CV/blob/main/img/cat.jpg?raw=true)
